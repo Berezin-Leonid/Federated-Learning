@@ -1,0 +1,10 @@
+defaults:
+  - optimizer: adam
+  - logger: tensorboard
+
+iteration: 100
+num_epochs_minimize: 50
+batch_size: 2500
+p: 0.5
+q: 0.5
+theta: 0.01

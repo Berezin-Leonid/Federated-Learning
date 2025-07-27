@@ -1,0 +1,2 @@
+_target_: torch.utils.tensorboard.SummaryWriter
+log_dir: /home/berezin/FederatedLearning/VRCS_runs/theta_${theta}_p_${p}_q_${q}_date(${now:%Y-%m-%d_%H-%M-%S})
