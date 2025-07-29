@@ -99,7 +99,7 @@ pip install torch
 pip install hydra_core
 pip install tensorboard
 pip install tqdm
-...
+pip install torchvision
 ```
 
 ### Launch
